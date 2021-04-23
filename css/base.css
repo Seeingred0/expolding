@@ -244,15 +244,16 @@ canvas {
 	font-size: 2rem;
 }
 
-.content__inner-item:nth-child(3n-1) {
+
+
+.content__inner-item:nth-child(2n) {
 	font-family: titling-gothic-fb-narrow, sans-serif;
-	font-weight: 100;
-	text-transform: uppercase;
+	font-weight: 200;
 }
 
-.content__inner-item:nth-child(3n) {
-	font-family: titling-gothic-fb-extended, sans-serif;
-	font-weight: 200;
+.content__inner-item1 {
+	font-family: titling-gothic-fb-narrow, sans-serif;
+	font-weight: 50;
 }
 
 .content__button {
